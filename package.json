@@ -1,8 +1,7 @@
 {
   "name": "blank-react-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A blank react app",
   "scripts": {
     "dev": "parcel public/index.html",
     "format": "prettier \"src/**/*.{js,html}\" --write",
